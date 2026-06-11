@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Michicode",
+			"path": "."
+		},
+		{
+			"name": "my_code_train",
+			"path": "../Yamacode/my_code_train"
+		}
+	],
+	"settings": {}
+}
